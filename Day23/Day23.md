@@ -11,8 +11,11 @@ $ vi nginx-setup.txt
 #cloud-config
 
 package_upgrade: true
+
 packages:
+
   - nginx
+
 runcmd:
   - systemctl start nginx
   - systemctl enable nginx
