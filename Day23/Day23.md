@@ -13,7 +13,6 @@ $ vi nginx-setup.txt
 package_upgrade: true
 
 packages:
-
   - nginx
 
 runcmd:
