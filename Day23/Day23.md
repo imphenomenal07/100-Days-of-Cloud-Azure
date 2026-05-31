@@ -9,6 +9,7 @@ $ az group list
 $ vi nginx-setup.txt
 
 #cloud-config
+
 package_upgrade: true
 packages:
   - nginx
