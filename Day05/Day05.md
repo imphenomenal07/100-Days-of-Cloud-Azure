@@ -14,4 +14,4 @@ Location:
 
 Review + Create
 
-#Once deployment is completed, click on 'Go to resource'
+#Once deployment is completed, click on '**Go to resource**'
